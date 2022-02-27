@@ -52,7 +52,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @Kraken_The_
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-USERBOT.git
+git clone https://github.com/kajal74960/MAFIA-USERBOT.git
 cd MAFIA-USERBOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
@@ -110,7 +110,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 kajal74960
 
 Poject [MAFIABOT](https://github.com/MafiaBotOP/MafiaBotOP) is free software: you can redistribute it and/or modify
 
